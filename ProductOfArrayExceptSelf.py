@@ -2,7 +2,7 @@
 - O(n), where n is the length of the input array
 
 # Space Complexity :
-- O(1), excluding the output array (which is allowed by the problem)
+- O(1), excluding the output array
 
 # Did this code successfully run on Leetcode : Yes
 # Any problem you faced while coding this : No
